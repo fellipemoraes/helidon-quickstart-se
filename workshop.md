@@ -178,4 +178,4 @@ You can verify the service by running the app in OCI Container Engine for Kubern
     `{"message":"Hello Larry!"}`
 
 
-Congratulations! You've successfully deployed the **Helidon Quick Start** Microservice onto a node in the new cluster, and verified that the application is working as expected.
+Congratulations! You've successfully deployed the **Helidon Quick Start** Microservice onto a node in the new cluster, and verified that the application is working as expected!
